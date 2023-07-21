@@ -6,7 +6,7 @@ import SingleTrainPage from "./pages/SingleTrainPage";
 // Dummy train data
 const dummyTrains = [
   {
-    trainName: "Dummy Exp",
+    trainName: "nagda Exp",
     trainNumber: "2314",
     departureTime: { Hours: 21, Minutes: 35, Seconds: 0 },
     seatsAvailable: { sleeper: 3, AC: 1 },
@@ -14,7 +14,7 @@ const dummyTrains = [
     delayedBy: 15,
   },
   {
-    trainName: "Mumbai Exp",
+    trainName: "chennai Exp",
     trainNumber: "2311",
     departureTime: { Hours: 23, Minutes: 55, Seconds: 0 },
     seatsAvailable: { sleeper: 6, AC: 7 },
